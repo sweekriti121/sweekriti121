@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sweekriti Pant</h1>
 <h3 align="center">Insightful 2nd year Computer Science student with interest in competitive programming and development.</h3>
 
-- 🌱 I’m currently learning **Javascript, Bootstrap**
+- 🌱 I’m currently learning **React, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
