@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sweekriti Pant</h1>
 <h3 align="center">Insightful 2nd year Computer Science student with interest in competitive programming and development.</h3>
 
-- 🔭 I’m currently working on [Tech n Science](https://github.com/Tech-N-Science/FunwithScience)
+- 🔭 I’m currently working on [Tech n Science](https://github.com/Diversion2k22/FunwithScience)
 
 - 🌱 I’m currently learning **PHP**
 
