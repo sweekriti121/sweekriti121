@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sweekriti Pant</h1>
-<h3 align="center">Insightful 2nd year Computer Science student with interest in competitive programming and development.</h3>
+<h3 align="center">Insightful 2nd year Computer Science student with interest in Competitive Programming, Web Development and Contributing to Open Source.</h3>
 
 - 🔭 I’m currently working on [Tech n Science](https://github.com/Diversion2k22/FunwithScience)
 
